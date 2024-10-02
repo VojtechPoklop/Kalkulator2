@@ -4,7 +4,7 @@ public class Kalkulator3000 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+// NAZDAR
 				Scanner scan = new Scanner(System.in);
 					System.out.println("Napis prvni cislo.");
 					int cislo1 = scan.nextInt();
